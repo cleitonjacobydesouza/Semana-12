@@ -14,8 +14,8 @@ async function auth(req, res, next) {
  
     } catch (error) {
         return res.status(401).json({
-            mensagen: "Autenticação falhou!",
-            cause: error.message
+            mensage: "Autenticação falhou!",
+            causa: error.message
         })
         
     }
