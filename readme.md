@@ -1,4 +1,4 @@
-# Semana 10 - Introdução ao Sequelize
+Introdução ao Sequelize
 
 ## Rodar o repositório:
 
@@ -38,3 +38,5 @@ https://sequelize.org/docs/v6/core-concepts/model-basics/
 `npm install dotenv`
 ### instalar o jsonWebToken
 `npm install jsonwebtoken`
+### instalar o bcrypt
+'npm install bcrypt'
