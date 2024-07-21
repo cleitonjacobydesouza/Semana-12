@@ -1,5 +1,4 @@
 const Aluno = require('../models/Aluno'); // Certifique-se de que o caminho esteja correto
-
 class AlunoController {
     async cadastrar(req, res) {
         try {
